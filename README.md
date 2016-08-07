@@ -10,5 +10,5 @@ Bcaster for cluster initialization.
 
 ## Demo
 
-## Licese
-MIT Licese
+## License
+MIT License
